@@ -1,7 +1,9 @@
 # SysTech [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
-A SysTech é uma pequena empresa de desenvolvimento de sistemas e prestadora de suporte de TI à outras empresas.
-Atualmente a empresa está crescendo, porém a demanda está muito alta e por isso decidimos implantar CI/CD (prática DevOps).
+A SysTech é uma pequena empresa de desenvolvimento de sistemas e prestadora de suporte de TI à outras empresas. Atualmente a empresa está crescendo, porém a demanda está muito alta e por isso decidimos implantar CI/CD (prática DevOps).![capa](https://user-images.githubusercontent.com/86604168/228242134-5400e11f-945a-42f8-b21c-49aff7d82169.png)
+
+## CI/CD
+CI (integração contínua) é a prática de integrar alterações de código em um repositório várias vezes ao dia. CD tem dois significados: a entrega contínua automatiza as integrações de código, enquanto a implementação contínua libera automaticamente as compilações finais para os usuários finais.
 
 ## Ferramentas Utilizadas
 ### Google Meet
@@ -20,3 +22,7 @@ A Amazon Web Services (AWS) é a plataforma de nuvem mais adotada e mais abrange
 Kubernetes é um plataforma de código aberto, portável e extensiva para o gerenciamento de cargas de trabalho e serviços distribuídos em contêineres, que facilita tanto a configuração declarativa quanto a automação.
 ### DataDog
 Datadog é uma ferramenta de monitoramento e análise para equipes de tecnologia da informação (TI) e DevOps que pode ser usada para determinar métricas de desempenho, bem como monitoramento de eventos para infraestrutura e serviços em nuvem. O software pode monitorar serviços como servidores, bancos de dados e ferramentas.
+
+## Colaboradores
+* Nathan Enrico Romero - RA 753771
+* Fernando da Silva Leandro - RA 754525
